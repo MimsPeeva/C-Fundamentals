@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rmTE7h+Ydvhleltu7iLQQJ4ewmsXDdbiw1Nuf4zbE/u/5dzo56hIwQuqPdl3yM7JvKuIbkUMlnUV+QGBMgH9Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables\\Refactor Volume of Pyramid\\Refactor Volume of Pyramid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
