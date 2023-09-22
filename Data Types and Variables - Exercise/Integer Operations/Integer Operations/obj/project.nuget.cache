@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjh8pgF2E39njnyE6Zq3kvz4WcG9CIBZxjJjRzEEYX3WLpWgkipW5uPYAbngSvWsMdgZk28s99wsQetg7u55dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables - Exercise\\Integer Operations\\Integer Operations\\Integer Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

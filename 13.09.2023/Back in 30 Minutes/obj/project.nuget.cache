@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvBowhfXYrG1dESkSonLOAPqg+mqjBwvowp2om0BPLbCEC8HZ/GihRwCAEsKyDuPj5GTe3a9dQCkAoD08wy0jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Back in 30 Minutes\\Back in 30 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

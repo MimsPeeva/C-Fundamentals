@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tu/KC42GRe24Xfc2aBxHlNAGBcPHM2OfB8Bg8RU4alzTKexEa0igoGBULVxoOK7Et/sizO3mDDS+eJ+X5Wimpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables\\Concat Names\\Concat Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

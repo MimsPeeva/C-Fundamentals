@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.exe
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.deps.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.runtimeconfig.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.dll
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.pdb
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.dll
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.pdb
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.genruntimeconfig.cache

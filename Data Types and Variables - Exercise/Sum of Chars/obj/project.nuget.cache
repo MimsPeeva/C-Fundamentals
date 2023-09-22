@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufa8zpkZJ22R7DitJgl9eHxLlvWZyaoFioV1g5yrSfFV71xBJt2a7CTmPCkjE6l1fFOr9XN9Lb306WGISYyDxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables - Exercise\\Sum of Chars\\Sum of Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

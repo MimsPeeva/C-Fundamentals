@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JMK8ahKQq0AtCZqfohOTlr8vNCPxqOXIWUEbv4Uy0/+W3llYoAkhFH2UlQYgJFbdponJR7+Q5Fha2YxuW/z6Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables\\Reversed Chars\\Reversed Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

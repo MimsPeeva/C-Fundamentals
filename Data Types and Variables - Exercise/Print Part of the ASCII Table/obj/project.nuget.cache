@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x71RXEAAjyrS4XavdmDAL7O8YZggaXBkF5MAS0vcn5Vmd2GuVQeXfdnZG+czrBD4A/rFZlh2yhDnOSsrStR3tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables - Exercise\\Print Part of the ASCII Table\\Print Part of the ASCII Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

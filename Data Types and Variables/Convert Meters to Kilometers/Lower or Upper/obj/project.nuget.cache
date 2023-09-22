@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVCqe+H5ezmBg8+JLLkD7fLayDbp6VrUNfp2f50983Un5Y73cfIUDKdT5ihevaoeKqk2875CxMfyvSgb0JECiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables\\Convert Meters to Kilometers\\Lower or Upper\\Lower or Upper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

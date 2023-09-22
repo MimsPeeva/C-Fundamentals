@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1Tv6eCaouRf4oWIIZi809SQ6UxEsUYaDpPK6Ou5qoYv6u7RKMVrnWwHrGJLm+9lzZzwNz+k8DImIEQWHC5o5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - Exercise\\Print and sum\\Print and sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.exe
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.deps.json
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.runtimeconfig.json
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.dll
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.pdb
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.dll
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.pdb
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.genruntimeconfig.cache

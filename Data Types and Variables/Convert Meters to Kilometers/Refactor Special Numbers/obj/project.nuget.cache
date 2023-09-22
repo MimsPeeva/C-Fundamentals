@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1uziOXgGftuxDba+NftdWaajSZzpYzW76+L11C3pGrU3/brhBlZGoR1nueTPmoWXB9Tgh5YrGwbrFazyIL/NsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables\\Convert Meters to Kilometers\\Refactor Special Numbers\\Refactor Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

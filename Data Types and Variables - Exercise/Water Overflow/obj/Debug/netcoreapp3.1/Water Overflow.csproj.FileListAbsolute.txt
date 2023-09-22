@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.exe
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.deps.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.runtimeconfig.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.dll
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.pdb
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.dll
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.pdb
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.genruntimeconfig.cache

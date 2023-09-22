@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPiJH6wSCMUR0PRYs8Xx/JbXI3V25PegJqq/MiB7vFTkVInUabJ45X4TlZqKYIDA6AEuFxy4TDFJgfLhzNlQcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables - Exercise\\Poke Mon\\Poke Mon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BTz4KQPlwU0i0mSh0WLbGICJAsgrG+iZWHl5PZS1SO+ArlG7+VVx3nWaX2rwVgqXskHx4/iG0JgUw+zudqaV4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables - Exercise\\Water Overflow\\Water Overflow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

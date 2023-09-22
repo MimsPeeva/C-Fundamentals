@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFBDcdxpjh//J5a7A3BjMR8E3w/nn0IbhX4DJ08FKUffLHavFLEPWwIJOAdfg/pWY7lexduju8pqSwIFU43mlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables - Exercise\\Triples of Latin Letters\\Triples of Latin Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

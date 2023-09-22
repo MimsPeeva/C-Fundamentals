@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.exe
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.deps.json
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.runtimeconfig.json
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.dll
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.pdb
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.dll
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.pdb
+C:\Users\Acer\Desktop\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.genruntimeconfig.cache

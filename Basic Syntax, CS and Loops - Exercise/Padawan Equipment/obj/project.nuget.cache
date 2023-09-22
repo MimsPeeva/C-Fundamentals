@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DrAQUt8cnI/a7jjsIrpzXHdg/E095ceu3/YvG50NSJNL0QQPOk689Wd1ETceINa9tdjku4L7/RU6Y1Wp3evvIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - Exercise\\Padawan Equipment\\Padawan Equipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

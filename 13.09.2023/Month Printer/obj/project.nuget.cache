@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqJ1SAaTEf80CB3rpVebMRC7475lztGCnrB9tl2Jqcl9z3j51J7DnxZcOg9IxSbt8sl7hs8g4AEI6tlxchpn6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Month Printer\\Month Printer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

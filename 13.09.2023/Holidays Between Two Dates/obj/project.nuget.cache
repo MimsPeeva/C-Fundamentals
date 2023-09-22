@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9RoOIUbY50HS5XkqEw9v8pFV5lGT4xeJg7rJV/su6QPE42RVSAvLCW4WRjxiznEwrxozrMJuSdSYn2zkbEq3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Holidays Between Two Dates\\Holidays Between Two Dates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

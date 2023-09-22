@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uSzVfIDdAvPzo85wni/hAMtpM9Pp2VOj2RXfFAobPTQ0C3Rsku+pAfO1VwWiGsgb/CYuXG0iyFtlfY0jKGMiKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Sum of Odd Numbers\\Sum of Odd Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

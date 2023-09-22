@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vcHoQFHEsWRMgGBRfUy8q95ZT7mRDlWef5KqxO9hL/Gm9WgVOlXocNNos/9t8o3ZvKg+cP0aOnkV/qIb5uh5aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\Sort Numbers\\English Name of the Last Digit\\English Name of the Last Digit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

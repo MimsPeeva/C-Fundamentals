@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VyOOBKbWr1NnRoMxGjtqN+1x8dDHkSkZQ6w1Li7Lzw2whR9lfgbhmHtQy2bgw8u/0vaazVkT6FXzX16yUsnMFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Even Number\\Even Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

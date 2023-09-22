@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WVeU+7Z0phpn20SPDjc/wsPxHDsDrt73b+SPxKloSO5EfgNdVm/E5RPhJ3NiLLWGw9OPHQ8qxehabqR47x7eVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - Exercise\\Divison\\Divison.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

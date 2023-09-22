@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JKEFHrfysQeH8B77ikj/+w/zL4PCFuZhF2nMckzRCrwFrVkSkjs/x2dDFImJp0TtRSrB7Yy5TiDNoQNcNHUSeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Multiplication Table 2.0\\Multiplication Table 2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

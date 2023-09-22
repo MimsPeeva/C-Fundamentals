@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.exe
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.deps.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.dll
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.pdb
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.dll
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.pdb
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.genruntimeconfig.cache

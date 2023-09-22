@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0DB2kgyLRPvRs/7t22zmMQwrCf/Wk3w8iwGYNoXcrWtPgx+JVlJyoHALExIasKEbR7H8ztUHXxEi9wJOdUgog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\Sort Numbers\\Messages\\Messages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

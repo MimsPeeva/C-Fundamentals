@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXkrs30FzOG8OQxMO+3o4uIdA9qvTM81CnwOmjTVqCzq8iCKCX4eFgCQloBilj2JCxVe/K79fkYqY08AcAvIpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables\\Chars to String\\Chars to String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\netcoreapp3.1\Student Information.exe
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\netcoreapp3.1\Student Information.deps.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\netcoreapp3.1\Student Information.runtimeconfig.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\netcoreapp3.1\Student Information.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\netcoreapp3.1\Student Information.dll
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\netcoreapp3.1\Student Information.pdb
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\netcoreapp3.1\Student Information.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\netcoreapp3.1\Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\netcoreapp3.1\Student Information.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\netcoreapp3.1\Student Information.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\netcoreapp3.1\Student Information.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\netcoreapp3.1\Student Information.dll
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\netcoreapp3.1\Student Information.pdb
+C:\Users\Acer\Desktop\Fundamentals\13.09.2023\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\netcoreapp3.1\Student Information.genruntimeconfig.cache

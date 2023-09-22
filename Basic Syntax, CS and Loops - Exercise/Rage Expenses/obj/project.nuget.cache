@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZp7DzqUnRO5MBiEnTizLJWBr7m+xu0eLFkghqzzp29sH/bSxdcB0z2xa1KkmtR8fUWvFryg5TiLsVoDE3bsdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - Exercise\\Rage Expenses\\Rage Expenses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

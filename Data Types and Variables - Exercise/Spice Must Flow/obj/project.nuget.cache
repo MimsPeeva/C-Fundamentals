@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3GOKuybLwbJeLxLhOjlqwZNangOznuiPgRn4rEvav+s+0J9xVGQtXu4QpEHSyvyQ5JhjqKDa7lAVDpBgHNxgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables - Exercise\\Spice Must Flow\\Spice Must Flow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

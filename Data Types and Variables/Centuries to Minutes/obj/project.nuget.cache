@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MFo5afLYPKA6JnZmlv/TXz92Cgb0dmGM94iw0Bh9xBMiz3bT3AxlyhxgWZr82vTyX8JtXlog/Kfa3GQiFwf8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Data Types and Variables\\Centuries to Minutes\\Centuries to Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

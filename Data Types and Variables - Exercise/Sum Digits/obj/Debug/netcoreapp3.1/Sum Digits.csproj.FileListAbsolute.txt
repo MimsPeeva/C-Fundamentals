@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.exe
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.deps.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.runtimeconfig.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.dll
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.pdb
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.dll
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.pdb
+C:\Users\Acer\Desktop\Fundamentals\Data Types and Variables - Exercise\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.genruntimeconfig.cache

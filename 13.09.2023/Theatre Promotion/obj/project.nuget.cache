@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2Xxtyy6XmUnDSB1bHqWzCOFKfQMFervnXARkjOfY97Cse554XDmRB4CkYeQaz1s3zdjHeIC4Dx3cTl5xybIXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Theatre Promotion\\Theatre Promotion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZtcgzLVWOMTHzT75MlewZXJy1RpJ6A1LJmCm4TCdT87/fr8PeKKrM4qHX5SHau4clZnedztEFoc4IREhuAfSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Passed or Failed\\Passed or Failed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

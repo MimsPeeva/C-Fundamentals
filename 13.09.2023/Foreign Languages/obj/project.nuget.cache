@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SD4u665FJE4L9xBAjvElzyTlEPy7JtLisn4hoB77kYdK0euE3XaO+eJ+pMXtJbc1IqOLw8aGq6TyCPnQaJkDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Foreign Languages\\Foreign Languages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

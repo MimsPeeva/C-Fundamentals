@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bH7u9NTAu8pG9TOY2BP7Wrnlpfj02u9xPsTHqc3kSe+tSEnjlztjxrg+K1FLDjSduVW8mFx86ZdOWxskhbEfoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - More Exercise\\Sort Numbers\\Reverse String\\Reverse String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

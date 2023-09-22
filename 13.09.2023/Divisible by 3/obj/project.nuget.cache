@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "riFuURSHWU9QFpg9mtnYoqvG2tGnfij/oxDW6xJxszm20Pi55Bb0H/PbjywAtnt2VpROI62SeSBhwqD9UjFwxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Fundamentals\\13.09.2023\\Basic Syntax, Conditional Statements and Loops\\Divisible by 3\\Divisible by 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
