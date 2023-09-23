@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\bin\Debug\netcoreapp3.1\Decrypting Message.exe
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\bin\Debug\netcoreapp3.1\Decrypting Message.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\bin\Debug\netcoreapp3.1\Decrypting Message.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\bin\Debug\netcoreapp3.1\Decrypting Message.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\bin\Debug\netcoreapp3.1\Decrypting Message.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\bin\Debug\netcoreapp3.1\Decrypting Message.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\obj\Debug\netcoreapp3.1\Decrypting Message.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\obj\Debug\netcoreapp3.1\Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\obj\Debug\netcoreapp3.1\Decrypting Message.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\obj\Debug\netcoreapp3.1\Decrypting Message.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\obj\Debug\netcoreapp3.1\Decrypting Message.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\obj\Debug\netcoreapp3.1\Decrypting Message.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\obj\Debug\netcoreapp3.1\Decrypting Message.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Decrypting Message\obj\Debug\netcoreapp3.1\Decrypting Message.genruntimeconfig.cache

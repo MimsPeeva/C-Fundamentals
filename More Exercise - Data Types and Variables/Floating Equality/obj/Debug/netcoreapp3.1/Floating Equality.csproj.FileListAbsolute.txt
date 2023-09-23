@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.exe
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.genruntimeconfig.cache

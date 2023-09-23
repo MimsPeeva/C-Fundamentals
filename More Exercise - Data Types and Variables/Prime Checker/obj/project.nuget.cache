@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1zp++tbjyy6KFvwjKBfvHnJ8u4Hb8gF59bmBfMJPdnv35k1TPAUcVr9+UIwPI9S6+iFDjnNbQVut897GJKo8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\C-Fundamentals\\More Exercise - Data Types and Variables\\Prime Checker\\Prime Checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

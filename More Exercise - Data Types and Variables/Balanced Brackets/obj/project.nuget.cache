@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZFL4ZOUkpjWw4IyDEqQBpS0k6KCUr0MP09W5Z9xIFtu/WbDyNLtQB+c5EQbBfmTHL/9S30X7hot3q6Ps1iP1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\C-Fundamentals\\More Exercise - Data Types and Variables\\Balanced Brackets\\Balanced Brackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

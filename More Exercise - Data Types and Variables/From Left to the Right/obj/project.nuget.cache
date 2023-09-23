@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFvZNfc9779bvkV5FGDx2vbNXkRAyAprDBCsSwbAz0CDwnPvp5hvZBrqTnH51Tkpp4n08iWhA5cCjaEJ4ia7sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\C-Fundamentals\\More Exercise - Data Types and Variables\\From Left to the Right\\From Left to the Right.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

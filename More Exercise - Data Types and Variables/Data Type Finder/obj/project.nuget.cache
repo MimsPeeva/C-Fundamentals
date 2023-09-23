@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UhqFjNHLlZrvQqbW/n15SyBCDs5BsAtjzF+ul0w7AIrAqOD4GluWiYCebE1xHv3IuGhReGmwFeWhxthTsqfMMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\C-Fundamentals\\More Exercise - Data Types and Variables\\MoreExercise-DTV\\Data Type Finder\\Data Type Finder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

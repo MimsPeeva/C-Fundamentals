@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\bin\Debug\netcoreapp3.1\Prime Checker.exe
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\bin\Debug\netcoreapp3.1\Prime Checker.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\bin\Debug\netcoreapp3.1\Prime Checker.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\bin\Debug\netcoreapp3.1\Prime Checker.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\bin\Debug\netcoreapp3.1\Prime Checker.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\bin\Debug\netcoreapp3.1\Prime Checker.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\obj\Debug\netcoreapp3.1\Prime Checker.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\obj\Debug\netcoreapp3.1\Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\obj\Debug\netcoreapp3.1\Prime Checker.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\obj\Debug\netcoreapp3.1\Prime Checker.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\obj\Debug\netcoreapp3.1\Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\obj\Debug\netcoreapp3.1\Prime Checker.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\obj\Debug\netcoreapp3.1\Prime Checker.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Prime Checker\obj\Debug\netcoreapp3.1\Prime Checker.genruntimeconfig.cache

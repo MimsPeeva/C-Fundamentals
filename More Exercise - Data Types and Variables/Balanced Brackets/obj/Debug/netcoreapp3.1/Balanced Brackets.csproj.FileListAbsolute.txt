@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.exe
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More Exercise - Data Types and Variables\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.genruntimeconfig.cache
