@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\refint\Even and Odd Subtraction.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Even and Odd Subtraction\obj\Debug\net6.0\ref\Even and Odd Subtraction.dll

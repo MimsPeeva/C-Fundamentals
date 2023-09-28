@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\net6.0\Reverse Array of Strings.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\net6.0\Reverse Array of Strings.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\net6.0\Reverse Array of Strings.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\net6.0\Reverse Array of Strings.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\net6.0\Reverse Array of Strings.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\Reverse Array of Strings.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\refint\Reverse Array of Strings.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\Reverse Array of Strings.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\Reverse Array of Strings.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\net6.0\ref\Reverse Array of Strings.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCy8wv8GE8fx7jbMRGLRQdm5qNg6DBuADOkn4f6hOg3PYEjLoaquBC/lpaHTmBRtHFFNGkS7mlh/90iazqA6UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\C-Fundamentals\\Arrays\\Rounding Numbers\\Rounding Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

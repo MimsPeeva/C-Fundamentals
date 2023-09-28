@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\refint\Condense Array to Number.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Arrays\Condense Array to Number\obj\Debug\net6.0\ref\Condense Array to Number.dll

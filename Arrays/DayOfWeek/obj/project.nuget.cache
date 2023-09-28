@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewIzI+JbzKX0P+SCq9NXdUzR+FlMRFF3LLVWS9iHqvHHeixbfKNSRRoL+dhSDiQaPk1P0uOlt/h1Kllh/7X82w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\C-Fundamentals\\Arrays\\DayOfWeek\\DayOfWeek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
