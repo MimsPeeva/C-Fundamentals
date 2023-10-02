@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\refint\Kamino Factory.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Kamino Factory\obj\Debug\net6.0\ref\Kamino Factory.dll

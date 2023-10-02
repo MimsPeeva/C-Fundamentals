@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\refint\Array Rotation.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Array Rotation\obj\Debug\net6.0\ref\Array Rotation.dll

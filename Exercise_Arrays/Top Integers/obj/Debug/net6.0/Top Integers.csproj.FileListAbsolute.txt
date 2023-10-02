@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\bin\Debug\net6.0\Top Integers.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\bin\Debug\net6.0\Top Integers.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\bin\Debug\net6.0\Top Integers.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\bin\Debug\net6.0\Top Integers.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\bin\Debug\net6.0\Top Integers.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\Top Integers.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\Top Integers.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\Top Integers.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\Top Integers.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\refint\Top Integers.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\Top Integers.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\Top Integers.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Top Integers\obj\Debug\net6.0\ref\Top Integers.dll

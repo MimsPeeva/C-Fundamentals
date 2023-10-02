@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\bin\Debug\net6.0\Max Sequence of Equal Elements.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\bin\Debug\net6.0\Max Sequence of Equal Elements.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\bin\Debug\net6.0\Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\bin\Debug\net6.0\Max Sequence of Equal Elements.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\bin\Debug\net6.0\Max Sequence of Equal Elements.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\Max Sequence of Equal Elements.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\refint\Max Sequence of Equal Elements.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\Max Sequence of Equal Elements.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\Max Sequence of Equal Elements.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Max Sequence of Equal Elements\obj\Debug\net6.0\ref\Max Sequence of Equal Elements.dll

@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\bin\Debug\net6.0\Zig-Zag Arrays.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\bin\Debug\net6.0\Zig-Zag Arrays.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\bin\Debug\net6.0\Zig-Zag Arrays.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\bin\Debug\net6.0\Zig-Zag Arrays.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\bin\Debug\net6.0\Zig-Zag Arrays.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\Zig-Zag Arrays.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\Zig-Zag Arrays.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\refint\Zig-Zag Arrays.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\Zig-Zag Arrays.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\Zig-Zag Arrays.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Arrays\Zig-Zag Arrays\obj\Debug\net6.0\ref\Zig-Zag Arrays.dll
