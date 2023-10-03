@@ -33,10 +33,11 @@ while ((input = Console.ReadLine()) != "Clone them!")
                
             }
         }
-        if (input == "Clone them!") 
-        {
-            Console.WriteLine($"Best DNA sample {counter} with sum: {countOnes}.");
-            Console.WriteLine(string.Join(" ", arr)); 
-        }
+      
     } 
+}
+if (input == "Clone them!")
+{
+    Console.WriteLine($"Best DNA sample {counter} with sum: {countOnes}.");
+   // Console.WriteLine(string.Join(" ", arr));
 }

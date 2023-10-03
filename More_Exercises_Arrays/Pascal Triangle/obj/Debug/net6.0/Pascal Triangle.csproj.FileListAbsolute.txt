@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\bin\Debug\net6.0\Pascal Triangle.exe
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\bin\Debug\net6.0\Pascal Triangle.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\bin\Debug\net6.0\Pascal Triangle.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\bin\Debug\net6.0\Pascal Triangle.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\bin\Debug\net6.0\Pascal Triangle.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\refint\Pascal Triangle.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Pascal Triangle\obj\Debug\net6.0\ref\Pascal Triangle.dll

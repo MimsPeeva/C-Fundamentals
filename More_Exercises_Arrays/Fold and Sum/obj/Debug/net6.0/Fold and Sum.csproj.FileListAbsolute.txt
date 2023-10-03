@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\bin\Debug\net6.0\Fold and Sum.exe
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\bin\Debug\net6.0\Fold and Sum.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\bin\Debug\net6.0\Fold and Sum.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\bin\Debug\net6.0\Fold and Sum.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\bin\Debug\net6.0\Fold and Sum.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\Fold and Sum.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\Fold and Sum.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\Fold and Sum.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\refint\Fold and Sum.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\Fold and Sum.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\Fold and Sum.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Fold and Sum\obj\Debug\net6.0\ref\Fold and Sum.dll

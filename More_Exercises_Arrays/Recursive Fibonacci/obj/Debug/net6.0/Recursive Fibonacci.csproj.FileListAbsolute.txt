@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\bin\Debug\net6.0\Recursive Fibonacci.exe
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\bin\Debug\net6.0\Recursive Fibonacci.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\bin\Debug\net6.0\Recursive Fibonacci.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\bin\Debug\net6.0\Recursive Fibonacci.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\bin\Debug\net6.0\Recursive Fibonacci.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\Recursive Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\Recursive Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\Recursive Fibonacci.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\refint\Recursive Fibonacci.dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\Recursive Fibonacci.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\Recursive Fibonacci.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Recursive Fibonacci\obj\Debug\net6.0\ref\Recursive Fibonacci.dll
