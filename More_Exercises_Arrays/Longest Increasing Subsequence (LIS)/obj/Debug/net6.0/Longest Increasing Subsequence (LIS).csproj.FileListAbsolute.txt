@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\bin\Debug\net6.0\Longest Increasing Subsequence (LIS).exe
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\bin\Debug\net6.0\Longest Increasing Subsequence (LIS).deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\bin\Debug\net6.0\Longest Increasing Subsequence (LIS).runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\bin\Debug\net6.0\Longest Increasing Subsequence (LIS).dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\bin\Debug\net6.0\Longest Increasing Subsequence (LIS).pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\Longest Increasing Subsequence (LIS).csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\Longest Increasing Subsequence (LIS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\Longest Increasing Subsequence (LIS).AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\Longest Increasing Subsequence (LIS).AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\Longest Increasing Subsequence (LIS).csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\Longest Increasing Subsequence (LIS).dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\refint\Longest Increasing Subsequence (LIS).dll
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\Longest Increasing Subsequence (LIS).pdb
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\Longest Increasing Subsequence (LIS).genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\More_Exercises_Arrays\Longest Increasing Subsequence (LIS)\obj\Debug\net6.0\ref\Longest Increasing Subsequence (LIS).dll
