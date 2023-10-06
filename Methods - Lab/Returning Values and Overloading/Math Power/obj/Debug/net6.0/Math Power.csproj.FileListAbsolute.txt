@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\bin\Debug\net6.0\Math Power.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\bin\Debug\net6.0\Math Power.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\bin\Debug\net6.0\Math Power.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\bin\Debug\net6.0\Math Power.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\bin\Debug\net6.0\Math Power.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\Math Power.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\Math Power.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\Math Power.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\Math Power.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\refint\Math Power.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\Math Power.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\Math Power.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Math Power\obj\Debug\net6.0\ref\Math Power.dll

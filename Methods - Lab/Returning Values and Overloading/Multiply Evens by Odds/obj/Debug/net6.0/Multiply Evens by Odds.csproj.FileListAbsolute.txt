@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\refint\Multiply Evens by Odds.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Returning Values and Overloading\Multiply Evens by Odds\obj\Debug\net6.0\ref\Multiply Evens by Odds.dll

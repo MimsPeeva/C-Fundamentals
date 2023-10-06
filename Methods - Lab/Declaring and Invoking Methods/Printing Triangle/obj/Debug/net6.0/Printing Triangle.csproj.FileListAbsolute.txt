@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\bin\Debug\net6.0\Printing Triangle.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\bin\Debug\net6.0\Printing Triangle.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\bin\Debug\net6.0\Printing Triangle.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\bin\Debug\net6.0\Printing Triangle.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\bin\Debug\net6.0\Printing Triangle.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\Printing Triangle.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\Printing Triangle.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\Printing Triangle.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\refint\Printing Triangle.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\Printing Triangle.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\Printing Triangle.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - Lab\Declaring and Invoking Methods\Printing Triangle\obj\Debug\net6.0\ref\Printing Triangle.dll

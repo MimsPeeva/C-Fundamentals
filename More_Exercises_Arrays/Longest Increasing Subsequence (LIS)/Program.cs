@@ -1,19 +1,39 @@
-﻿int[] arr = Console.ReadLine()
+﻿using System.ComponentModel.DataAnnotations;
+
+int[] arr = Console.ReadLine()
     .Split()
     .Select(int.Parse)
     .ToArray();
-int[] maxLeft = new int[] { };
-int left = 0;
+int maxLength = 0;
+int lastIndex = -1;
 int[] len = new int[arr.Length];
+int[] prev = new int[arr.Length];
 int high = 0;
-for (int i = 0; i < arr.Length-1; i++)
+for (int i = 0; i < arr.Length; i++)
 {
-    len[0] = 1;
-    if (arr[i + 1] > arr[i]) { high = arr[i + 1];left = arr[i]; }
-    len[i] = 1 + len[left]; 
-    maxLeft[i] += high;
-}
+    len[i] = 1;
+    prev[i] = -1;
 
-//for (int p = 0; p < arr.Length-1; p++)
-//  {  int[] len = 1 + len[p+];}
-Console.WriteLine(string.Join(" ", maxLeft));
+    for (int j = 0; j < i; j++)
+    {
+        if (arr[i] > arr[j] && len[j] > len[i])
+        {
+            len[i] = 1 + len[j];
+            prev[i] = j;
+        }
+    }
+
+    if (len[i] > maxLength)
+    {
+        maxLength = len[i];
+        lastIndex = i;
+    }
+}
+int[] lis = new int[maxLength];
+for (int i = 0; i < maxLength; i++)
+{
+    lis[i] = arr[lastIndex];
+    lastIndex = prev[lastIndex];
+}
+Array.Reverse(lis);
+Console.WriteLine(string.Join(" ", lis));
