@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\refint\Characters in Range.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Characters in Range\obj\Debug\net6.0\ref\Characters in Range.dll
