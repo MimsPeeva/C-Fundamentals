@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int [] array = Console.ReadLine()
+    .Split()
+    .Select(int.Parse)
+    .ToArray();
+string command = Console.ReadLine();
+while (command != "end")
+{
+    
+}

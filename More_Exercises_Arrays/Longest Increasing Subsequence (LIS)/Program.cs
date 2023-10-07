@@ -16,7 +16,7 @@ for (int i = 0; i < arr.Length; i++)
 
     for (int j = 0; j < i; j++)
     {
-        if (arr[i] > arr[j] && len[j] > len[i])
+        if (arr[j] > arr[i] && len[j] >= len[i])
         {
             len[i] = 1 + len[j];
             prev[i] = j;
@@ -32,7 +32,7 @@ for (int i = 0; i < arr.Length; i++)
 int[] lis = new int[maxLength];
 for (int i = 0; i < maxLength; i++)
 {
-    lis[i] = arr[lastIndex];
+    lis[i] += arr[lastIndex];
     lastIndex = prev[lastIndex];
 }
 Array.Reverse(lis);
