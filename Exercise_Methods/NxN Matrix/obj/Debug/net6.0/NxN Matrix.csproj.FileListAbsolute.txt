@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\refint\NxN Matrix.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\NxN Matrix\obj\Debug\net6.0\ref\NxN Matrix.dll

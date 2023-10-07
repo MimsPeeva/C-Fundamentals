@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\refint\Add and Subtract.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Methods\Add and Subtract\obj\Debug\net6.0\ref\Add and Subtract.dll

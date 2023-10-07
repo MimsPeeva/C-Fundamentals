@@ -1,12 +1,14 @@
 ﻿string password = Console.ReadLine();
 if (CheckLength(password) && CheckDigitsNumber(password) && CheckElements(password))
 { Console.WriteLine("Password is valid"); }
-else if (!CheckDigitsNumber(password))
-{ Console.WriteLine("Password must have at least 2 digits");}
-else if (!CheckElements(password))
-{ Console.WriteLine("Password must consist only of letters and digits"); }
-else if (!CheckLength(password))
+if (!CheckLength(password))
 { Console.WriteLine("Password must be between 6 and 10 characters"); }
+if (!CheckElements(password))
+{ Console.WriteLine("Password must consist only of letters and digits"); }
+if (!CheckDigitsNumber(password))
+{ Console.WriteLine("Password must have at least 2 digits");}
+
+
 static bool CheckLength(string password)
 {
     bool isValid = false;
