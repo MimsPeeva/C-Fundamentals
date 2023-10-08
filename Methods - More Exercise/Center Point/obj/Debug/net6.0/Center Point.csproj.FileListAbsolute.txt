@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\bin\Debug\net6.0\Center Point.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\bin\Debug\net6.0\Center Point.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\bin\Debug\net6.0\Center Point.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\bin\Debug\net6.0\Center Point.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\bin\Debug\net6.0\Center Point.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\Center Point.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\Center Point.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\Center Point.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\Center Point.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\refint\Center Point.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\Center Point.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\Center Point.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Center Point\obj\Debug\net6.0\ref\Center Point.dll

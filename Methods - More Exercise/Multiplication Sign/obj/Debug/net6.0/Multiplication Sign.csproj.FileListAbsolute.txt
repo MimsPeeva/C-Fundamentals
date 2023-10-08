@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\refint\Multiplication Sign.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Multiplication Sign\obj\Debug\net6.0\ref\Multiplication Sign.dll

@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\bin\Debug\net6.0\Tribonacci Sequence.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\bin\Debug\net6.0\Tribonacci Sequence.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\bin\Debug\net6.0\Tribonacci Sequence.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\bin\Debug\net6.0\Tribonacci Sequence.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\bin\Debug\net6.0\Tribonacci Sequence.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\Tribonacci Sequence.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\Tribonacci Sequence.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\refint\Tribonacci Sequence.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\Tribonacci Sequence.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\Tribonacci Sequence.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Methods - More Exercise\Tribonacci Sequence\obj\Debug\net6.0\ref\Tribonacci Sequence.dll
