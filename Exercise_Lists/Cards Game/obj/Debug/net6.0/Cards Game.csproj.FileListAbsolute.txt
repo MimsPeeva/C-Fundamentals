@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\Cards Game.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\Cards Game.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\Cards Game.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\bin\Debug\net6.0\Cards Game.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\bin\Debug\net6.0\Cards Game.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\bin\Debug\net6.0\Cards Game.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\bin\Debug\net6.0\Cards Game.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\bin\Debug\net6.0\Cards Game.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\Cards Game.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\refint\Cards Game.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\Cards Game.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\Cards Game.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Cards Game\obj\Debug\net6.0\ref\Cards Game.dll

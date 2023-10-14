@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\bin\Debug\net6.0\List Operations.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\bin\Debug\net6.0\List Operations.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\bin\Debug\net6.0\List Operations.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\bin\Debug\net6.0\List Operations.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\bin\Debug\net6.0\List Operations.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\List Operations.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\List Operations.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\List Operations.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\List Operations.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\refint\List Operations.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\List Operations.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\List Operations.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\List Operations\obj\Debug\net6.0\ref\List Operations.dll

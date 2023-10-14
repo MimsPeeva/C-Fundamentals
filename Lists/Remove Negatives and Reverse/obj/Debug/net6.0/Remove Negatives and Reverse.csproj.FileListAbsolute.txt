@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\bin\Debug\net6.0\Remove Negatives and Reverse.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\bin\Debug\net6.0\Remove Negatives and Reverse.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\bin\Debug\net6.0\Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\bin\Debug\net6.0\Remove Negatives and Reverse.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\bin\Debug\net6.0\Remove Negatives and Reverse.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\Remove Negatives and Reverse.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\Remove Negatives and Reverse.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\refint\Remove Negatives and Reverse.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\Remove Negatives and Reverse.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\Remove Negatives and Reverse\obj\Debug\net6.0\ref\Remove Negatives and Reverse.dll

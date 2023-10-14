@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\refint\List Manipulation Advanced.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List Manipulation Advanced\obj\Debug\net6.0\ref\List Manipulation Advanced.dll

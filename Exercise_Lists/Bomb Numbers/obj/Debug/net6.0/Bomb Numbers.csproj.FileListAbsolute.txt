@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\refint\Bomb Numbers.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Lists\Bomb Numbers\obj\Debug\net6.0\ref\Bomb Numbers.dll

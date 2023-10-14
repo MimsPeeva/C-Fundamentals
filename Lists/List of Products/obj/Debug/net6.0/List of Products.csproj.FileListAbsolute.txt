@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\bin\Debug\net6.0\List of Products.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\bin\Debug\net6.0\List of Products.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\bin\Debug\net6.0\List of Products.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\bin\Debug\net6.0\List of Products.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\bin\Debug\net6.0\List of Products.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\List of Products.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\List of Products.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\List of Products.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\List of Products.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\List of Products.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\refint\List of Products.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\List of Products.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\List of Products.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists\List of Products\obj\Debug\net6.0\ref\List of Products.dll
