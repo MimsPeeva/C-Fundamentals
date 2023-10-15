@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\bin\Debug\net6.0\Mixed Up Lists.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\bin\Debug\net6.0\Mixed Up Lists.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\bin\Debug\net6.0\Mixed Up Lists.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\bin\Debug\net6.0\Mixed Up Lists.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\bin\Debug\net6.0\Mixed Up Lists.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\Mixed Up Lists.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\Mixed Up Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\Mixed Up Lists.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\Mixed Up Lists.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\Mixed Up Lists.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\Mixed Up Lists.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\refint\Mixed Up Lists.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\Mixed Up Lists.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\Mixed Up Lists.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lists_More Exercise\Mixed Up Lists\obj\Debug\net6.0\ref\Mixed Up Lists.dll
