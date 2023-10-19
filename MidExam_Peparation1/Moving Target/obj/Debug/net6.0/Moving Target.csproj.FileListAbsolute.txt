@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\bin\Debug\net6.0\Moving Target.exe
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\bin\Debug\net6.0\Moving Target.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\bin\Debug\net6.0\Moving Target.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\bin\Debug\net6.0\Moving Target.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\bin\Debug\net6.0\Moving Target.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\Moving Target.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\Moving Target.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\Moving Target.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\Moving Target.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\refint\Moving Target.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\Moving Target.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\Moving Target.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Moving Target\obj\Debug\net6.0\ref\Moving Target.dll

@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\bin\Debug\net6.0\The List.exe
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\bin\Debug\net6.0\The List.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\bin\Debug\net6.0\The List.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\bin\Debug\net6.0\The List.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\bin\Debug\net6.0\The List.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\The List.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\The List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\The List.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\The List.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\The List.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\The List.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\refint\The List.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\The List.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\The List.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Shopping List\obj\Debug\net6.0\ref\The List.dll

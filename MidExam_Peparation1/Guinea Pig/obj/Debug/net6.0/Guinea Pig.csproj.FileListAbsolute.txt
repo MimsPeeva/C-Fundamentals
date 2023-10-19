@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\bin\Debug\net6.0\Guinea Pig.exe
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\bin\Debug\net6.0\Guinea Pig.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\bin\Debug\net6.0\Guinea Pig.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\bin\Debug\net6.0\Guinea Pig.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\bin\Debug\net6.0\Guinea Pig.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\Guinea Pig.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\Guinea Pig.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\refint\Guinea Pig.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\Guinea Pig.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\Guinea Pig.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation1\Guinea Pig\obj\Debug\net6.0\ref\Guinea Pig.dll

@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\bin\Debug\net6.0\Bit at Position 1.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\bin\Debug\net6.0\Bit at Position 1.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\bin\Debug\net6.0\Bit at Position 1.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\bin\Debug\net6.0\Bit at Position 1.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\bin\Debug\net6.0\Bit at Position 1.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\Bit at Position 1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\Bit at Position 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\Bit at Position 1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\Bit at Position 1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\Bit at Position 1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\Bit at Position 1.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\refint\Bit at Position 1.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\Bit at Position 1.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\Bit at Position 1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Lab_Bitwise Operations\Bit at Position 1\obj\Debug\net6.0\ref\Bit at Position 1.dll
