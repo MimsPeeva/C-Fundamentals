@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\bin\Debug\net6.0\Memory Game.exe
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\bin\Debug\net6.0\Memory Game.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\bin\Debug\net6.0\Memory Game.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\bin\Debug\net6.0\Memory Game.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\bin\Debug\net6.0\Memory Game.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\Memory Game.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\Memory Game.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\Memory Game.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\Memory Game.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\refint\Memory Game.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\Memory Game.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\Memory Game.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Preparation2\Memory Game\obj\Debug\net6.0\ref\Memory Game.dll

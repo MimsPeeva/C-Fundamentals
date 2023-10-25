@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\bin\Debug\net6.0\SoftUni Reception.exe
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\bin\Debug\net6.0\SoftUni Reception.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\bin\Debug\net6.0\SoftUni Reception.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\bin\Debug\net6.0\SoftUni Reception.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\bin\Debug\net6.0\SoftUni Reception.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\SoftUni Reception.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\SoftUni Reception.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\SoftUni Reception.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\refint\SoftUni Reception.dll
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\SoftUni Reception.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\SoftUni Reception.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\MidExam_Peparation3\SoftUni Reception\obj\Debug\net6.0\ref\SoftUni Reception.dll
