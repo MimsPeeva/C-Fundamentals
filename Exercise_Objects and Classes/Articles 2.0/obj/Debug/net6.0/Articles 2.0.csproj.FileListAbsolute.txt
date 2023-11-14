@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\bin\Debug\net6.0\Articles 2.0.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\bin\Debug\net6.0\Articles 2.0.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\bin\Debug\net6.0\Articles 2.0.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\bin\Debug\net6.0\Articles 2.0.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\bin\Debug\net6.0\Articles 2.0.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\Articles 2.0.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\Articles 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\Articles 2.0.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\Articles 2.0.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\Articles 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\Articles 2.0.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\refint\Articles 2.0.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\Articles 2.0.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\Articles 2.0.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Articles 2.0\obj\Debug\net6.0\ref\Articles 2.0.dll

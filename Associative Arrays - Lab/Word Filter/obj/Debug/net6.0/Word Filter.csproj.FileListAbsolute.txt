@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\bin\Debug\net6.0\Word Filter.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\bin\Debug\net6.0\Word Filter.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\bin\Debug\net6.0\Word Filter.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\bin\Debug\net6.0\Word Filter.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\bin\Debug\net6.0\Word Filter.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\Word Filter.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\Word Filter.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\Word Filter.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\Word Filter.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\refint\Word Filter.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\Word Filter.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\Word Filter.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Word Filter\obj\Debug\net6.0\ref\Word Filter.dll

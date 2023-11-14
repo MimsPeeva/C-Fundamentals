@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\refint\Teamwork Projects.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Objects and Classes\Teamwork Projects\obj\Debug\net6.0\ref\Teamwork Projects.dll

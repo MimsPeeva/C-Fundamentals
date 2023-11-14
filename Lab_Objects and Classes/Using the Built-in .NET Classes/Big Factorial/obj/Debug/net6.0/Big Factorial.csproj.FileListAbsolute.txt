@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\bin\Debug\net6.0\Big Factorial.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\bin\Debug\net6.0\Big Factorial.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\bin\Debug\net6.0\Big Factorial.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\bin\Debug\net6.0\Big Factorial.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\bin\Debug\net6.0\Big Factorial.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\Big Factorial.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\Big Factorial.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\Big Factorial.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\Big Factorial.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\refint\Big Factorial.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\Big Factorial.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\Big Factorial.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Using the Built-in .NET Classes\Big Factorial\obj\Debug\net6.0\ref\Big Factorial.dll

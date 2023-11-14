@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\bin\Debug\net6.0\Character Multiplier.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\bin\Debug\net6.0\Character Multiplier.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\bin\Debug\net6.0\Character Multiplier.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\bin\Debug\net6.0\Character Multiplier.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\bin\Debug\net6.0\Character Multiplier.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\Character Multiplier.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\Character Multiplier.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\Character Multiplier.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\refint\Character Multiplier.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\Character Multiplier.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\Character Multiplier.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exercise_Strings and Text Processing\Character Multiplier\obj\Debug\net6.0\ref\Character Multiplier.dll

@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\refint\Odd Occurrences.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Associative Arrays - Lab\Odd Occurrences\obj\Debug\net6.0\ref\Odd Occurrences.dll

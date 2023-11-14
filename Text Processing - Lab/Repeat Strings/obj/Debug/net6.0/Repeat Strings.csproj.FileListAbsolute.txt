@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\bin\Debug\net6.0\Repeat Strings.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\bin\Debug\net6.0\Repeat Strings.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\bin\Debug\net6.0\Repeat Strings.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\bin\Debug\net6.0\Repeat Strings.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\bin\Debug\net6.0\Repeat Strings.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\Repeat Strings.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\Repeat Strings.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\Repeat Strings.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\refint\Repeat Strings.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\Repeat Strings.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\Repeat Strings.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Text Processing - Lab\Repeat Strings\obj\Debug\net6.0\ref\Repeat Strings.dll
