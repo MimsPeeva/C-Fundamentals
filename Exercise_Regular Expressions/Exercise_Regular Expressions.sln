@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furniture.csproj", "{3478956F-3CAA-4FA5-B3FA-6A03A20E6C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race", "Race\Race.csproj", "{6980EC35-4CD8-46BC-93CC-9E7CD1323363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3478956F-3CAA-4FA5-B3FA-6A03A20E6C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3478956F-3CAA-4FA5-B3FA-6A03A20E6C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3478956F-3CAA-4FA5-B3FA-6A03A20E6C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3478956F-3CAA-4FA5-B3FA-6A03A20E6C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6980EC35-4CD8-46BC-93CC-9E7CD1323363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6980EC35-4CD8-46BC-93CC-9E7CD1323363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6980EC35-4CD8-46BC-93CC-9E7CD1323363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6980EC35-4CD8-46BC-93CC-9E7CD1323363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E128ED-E729-4F92-867B-A0E6E7401688}
+	EndGlobalSection
+EndGlobal
