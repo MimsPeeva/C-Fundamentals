@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\bin\Debug\net6.0\Problem 1 – Activation Keys.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\bin\Debug\net6.0\Problem 1 – Activation Keys.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\bin\Debug\net6.0\Problem 1 – Activation Keys.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\bin\Debug\net6.0\Problem 1 – Activation Keys.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\bin\Debug\net6.0\Problem 1 – Activation Keys.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\Problem 1 – Activation Keys.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\Problem 1 – Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\Problem 1 – Activation Keys.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\Problem 1 – Activation Keys.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\Problem 1 – Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\Problem 1 – Activation Keys.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\refint\Problem 1 – Activation Keys.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\Problem 1 – Activation Keys.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\Problem 1 – Activation Keys.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 2\Problem 1 – Activation Keys\obj\Debug\net6.0\ref\Problem 1 – Activation Keys.dll

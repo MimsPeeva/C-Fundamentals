@@ -1,6 +1,6 @@
 ﻿using System.Text;
 using System.Text.RegularExpressions;
-
+ 
 List<string> participantsName = Console.ReadLine().Split(", ").ToList();
 List<Participant> participants = new List<Participant>();
 foreach (string name in participantsName)
@@ -11,8 +11,10 @@ foreach (string name in participantsName)
 string command;
 while ((command = Console.ReadLine()) != "end of race")
 {
-    StringBuilder nameBuilder = new StringBuilder();
+    string digitsPattern = @"\d";
     string lettersPattern = @"[A-Za-z]";
+    StringBuilder nameBuilder = new StringBuilder();
+ //   string lettersPattern = @"[A-Za-z]";
     foreach (Match m in Regex.Matches(command, lettersPattern))
     {
         nameBuilder.Append(m.Value);
@@ -20,19 +22,19 @@ while ((command = Console.ReadLine()) != "end of race")
     string participantName = nameBuilder.ToString();
 
     uint distance = 0;
-    string digitsPattern = @"\d";
+    //string digitsPattern = @"\d";
     foreach (Match m in Regex.Matches(command, digitsPattern))
     {
         distance += uint.Parse(m.Value);
     }
     Participant existParticipant = participants.FirstOrDefault(p=>p.Name == participantName);
-    if (participants!=null)
+    if (existParticipant!=null)
     {
        existParticipant.Distance += distance;
     }
 }
 
-List<Participant> orderedParticipants = participants
+List <Participant> orderedParticipants = participants
     .OrderByDescending(m => m.Distance)
     .Take(3)
     .ToList();
@@ -40,6 +42,7 @@ List<Participant> orderedParticipants = participants
 Console.WriteLine($"1st place: {orderedParticipants[0].Name}");
 Console.WriteLine($"2nd place: {orderedParticipants[1].Name}");
 Console.WriteLine($"3rd place: {orderedParticipants[2].Name}");
+
 public class Participant
 {
     public Participant(string name)

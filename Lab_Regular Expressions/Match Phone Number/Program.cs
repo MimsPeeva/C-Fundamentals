@@ -6,7 +6,8 @@ namespace Match_Phone_Number
     {
         static void Main(string[] args)
         {
-            string patern = @"\s*\+[359]\d+( |-)\d\1\d{3}\1\d{4}";
+            // string patern = @"\s*\+[359]\d+( |-)\d\1\d{3}\1\d{4}";
+            string patern = @"(\+359)(\s|-)(2)\2(\d{3}\2(\d{4})\b)";
             string input = Console.ReadLine();
             Regex reg = new Regex(patern);
             MatchCollection match = reg.Matches(input);

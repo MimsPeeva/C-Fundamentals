@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.exe
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.deps.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.runtimeconfig.json
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\refint\Problem 3 - P!rates.dll
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.pdb
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-Fundamentals\Exam Preparation - 1\Problem 3 - P!rates\obj\Debug\net6.0\ref\Problem 3 - P!rates.dll
