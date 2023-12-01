@@ -48,7 +48,7 @@ internal class Program
                 Console.WriteLine($"{foundCar.CarName} driven for {distance} kilometers. {fuel} liters of fuel consumed.");
                 foundCar.Mileage += distance;
                 foundCar.Fuel -= fuel;
-        if (foundCar.Mileage >= 100000)
+        if (foundCar.Mileage > 100000)
         {
             Console.WriteLine($"Time to sell the {foundCar.CarName}!");
             carList.Remove(foundCar);
@@ -65,7 +65,7 @@ internal class Program
         Car foundCar = carList.FirstOrDefault(car => car.CarName == name);
         if (foundCar == null) { return; }
         uint revert = foundCar.Revert(kilometers);
-        if (foundCar.Mileage <= 10000) { foundCar.Mileage = 10000; return; }
+        if (foundCar.Mileage < 10000) { foundCar.Mileage = 10000; return; }
         Console.WriteLine($"{foundCar.CarName} mileage decreased by {revert} kilometers");
     }
 
@@ -95,9 +95,9 @@ public class Car
 
     public uint Revert(uint kilometers)
     {
-        uint recharged = Math.Min(kilometers, 75 - Mileage);
-        Mileage -= recharged;
-        return recharged;
+        
+        Mileage -= kilometers;
+        return kilometers;
     }
     public override string ToString()
     {

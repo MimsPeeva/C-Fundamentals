@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror Words", "Mirror Word
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Need for Speed III", "Need for Speed III\Need for Speed III.csproj", "{044B77A1-DE01-48BB-9588-7E5EB240B271}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - The Imitation Game", "Problem 1 - The Imitation Game\Problem 1 - The Imitation Game.csproj", "{889A59F9-CEFE-4B0F-8B52-ED8B4CD99351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - Ad Astra", "Problem 2 - Ad Astra\Problem 2 - Ad Astra.csproj", "{2E804340-2133-4B4B-83C7-E8071F455720}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{044B77A1-DE01-48BB-9588-7E5EB240B271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{044B77A1-DE01-48BB-9588-7E5EB240B271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{044B77A1-DE01-48BB-9588-7E5EB240B271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889A59F9-CEFE-4B0F-8B52-ED8B4CD99351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889A59F9-CEFE-4B0F-8B52-ED8B4CD99351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889A59F9-CEFE-4B0F-8B52-ED8B4CD99351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889A59F9-CEFE-4B0F-8B52-ED8B4CD99351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E804340-2133-4B4B-83C7-E8071F455720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E804340-2133-4B4B-83C7-E8071F455720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E804340-2133-4B4B-83C7-E8071F455720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E804340-2133-4B4B-83C7-E8071F455720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
